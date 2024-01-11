@@ -54,7 +54,6 @@
 # Temporal Analysis:
 13. Timeline Analysis:
     - Analyze the timeline of construction phases, events, and donations.
-This code will help you visualize the timeline of construction phases, events, and donations by printing the relevant information in chronological order. You can further customize the analysis based on your specific requirements or use visualization libraries for more sophisticated analyses.
     - Identify any patterns or trends over time.
 
 14. Completion vs. Expected Dates:
