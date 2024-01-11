@@ -1,0 +1,66 @@
+#Deity and Temple Information:
+1. Deities:
+   - Who are the deities associated with the temples, and what are their descriptions?
+   - Provide a list of temples along with the deity names.
+
+2. Temple Details:
+   - How many temples are there in the dataset, and where are they located?
+   - What is the status of the construction for each temple?
+
+3. Construction Phases:
+   - What are the construction phases for each temple?
+   - Can you provide the start and completion dates for each construction phase?
+
+#Donations and Funding:
+4. Total Donations:
+   - Calculate the total amount of donations received for each temple.
+   - Identify the temple that received the highest and lowest donations.
+
+5. Top Donors:
+   - Who are the top donors, and what are the amounts they contributed?
+   - Is there a trend in donations over time for each temple?
+
+6. Community Contributions:
+   - Categorize donors based on religious or community affiliations.
+   - Analyze the distribution of donations among different communities.
+
+# Architecture and Construction:
+7. Architectural Team:
+   - Who are the architects involved in the construction of the temples?
+   - Provide details about their roles and contributions.
+
+8. Construction Timeline:
+   - Analyze the timeline for each construction phase.
+   - Are there any delays in completing the construction phases?
+
+#Events and Ceremonies:
+9. Event Overview:
+   - List the events associated with each temple, including names and dates.
+   - Provide a summary of the purpose and significance of each event.
+
+10. Ceremonies during Construction:
+    - What ceremonies took place during the temple construction?
+    - Who were the key participants in these ceremonies?
+
+#Community Involvement:
+11. Diversity in Donors:
+    - Identify the religious or community affiliations of donors.
+    - Are there any notable community-specific events or initiatives related to the temples?
+
+12. Collaborative Initiatives:
+    - Highlight collaborations or partnerships between the temple and various communities.
+    - Have there been joint events or programs?
+
+# Temporal Analysis:
+13. Timeline Analysis:
+    - Analyze the timeline of construction phases, events, and donations.
+This code will help you visualize the timeline of construction phases, events, and donations by printing the relevant information in chronological order. You can further customize the analysis based on your specific requirements or use visualization libraries for more sophisticated analyses.
+    - Identify any patterns or trends over time.
+
+14. Completion vs. Expected Dates:
+    - Evaluate how the construction progress aligns with the expected completion dates.
+    - Are there any significant deviations?
+
+
+
+
